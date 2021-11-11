@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulik Goswami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://www.linkpicture.com/q/@maulikcodes.png" alt="" width="1700" height="290"/>
+<img src="https://www.linkpicture.com/q/@maulikcodes.png" alt="" width="1700"/>
 
 Hello There 👋 It's Maulik Here: I Hope You Have a great Day ❤️
 I love to learn about new techs that are around me. Learn new things make me aware and happy. I will learn only 2-3 things but that will be powerful and useful. This is the thing that I love to do. What is the one thing that you love? DM on any social Media... 
