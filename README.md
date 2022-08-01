@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulik Goswami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img src="https://www.linkpicture.com/q/@maulikcodes.png" alt="" width="1700"/>
 
@@ -11,6 +11,28 @@ I love to learn about new techs that are around me. Learn new things make me awa
 - 📫 How to reach me: maulikwork247@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Source Code of Website Affects Search Engine Ranking 
+
+
+<h3 align="left">Languages & Skills</h3> 
+<h6>Knowing:</h6>
+<p align="left"> 
+<a href="h#" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+</a>
+</p>
+
+<h6>Intermediate:</h6>
+<p align="left"> 
+<a href="#" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="40" height="40"/>
+</a>
+<a href="#" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="#" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</a> 
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
