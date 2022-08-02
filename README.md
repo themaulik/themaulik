@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img src="https://www.linkpicture.com/q/@maulikcodes.png" alt="" width="1700"/>
-<a href="https://app.daily.dev/mxulik"><img src="https://api.daily.dev/devcards/3f8160d6ffaf4cc6bc6c1feb74005e96.png?r=wss" width="400" alt="Maulik Goswami's Dev Card"/></a>
-
 Hello There 👋 It's Maulik Here: I Hope You Have a great Day ❤️
 I love to learn about new techs that are around me. Learn new things make me aware and happy. I will learn only 2-3 things but that will be powerful and useful. This is the thing that I love to do. What is the one thing that you love? DM on any social Media... 
 
