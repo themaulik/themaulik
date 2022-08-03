@@ -33,8 +33,8 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaulik&show_icons=true&locale=en&layout=compact" width="26%"  alt="themaulik" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en" width="34%" alt="themaulik" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=themaulik&" width="34%" alt="themaulik" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en" width="30%" alt="themaulik" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=themaulik&" width="30%" alt="themaulik" />
 </p>
 
 <p></p>
