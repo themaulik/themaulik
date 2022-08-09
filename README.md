@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Source Code of Website Affects Search Engine Ranking**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/themaulikcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themaulikcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maulik-goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maulik-goswami/" height="30" width="40" /></a>
