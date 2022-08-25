@@ -175,11 +175,10 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaulik&show_icons=true&locale=en&layout=compact" width="26%"  alt="themaulik" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en" width="30%" alt="themaulik" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=themaulik&" width="30%" alt="themaulik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaulik&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="25%"  alt="themaulik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="30%" alt="themaulik" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themaulik&title_color=ffffff;text_color=c9cacc;bg_color=1d1f21" width="30%" alt="themaulik" />
 </p>
 
-<p></p>
 
 <p></p>
