@@ -175,7 +175,7 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaulik&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="25%"  alt="themaulik" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="30%" alt="themaulik" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=themaulik&theme=dark&hide_border=false&background=1D1F21" width="30%" alt="themaulik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themaulik&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="100%"  alt="themaulik" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=themaulik&show_icons=true&locale=en&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21" width="100%" alt="themaulik" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=themaulik&theme=dark&hide_border=false&background=1D1F21" width="100%" alt="themaulik" />
 </p>
