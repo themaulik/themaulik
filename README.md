@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **New Framework and Skills**
 
-- 📝 I regularly write articles on [https://themaulikcodes.hashnode.dev/](https://themaulikcodes.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://themaulikcodes.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
