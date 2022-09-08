@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/themaulikcodes" target="blank"><img src="https://img.shields.io/twitter/follow/themaulikcodes?logo=twitter&style=for-the-badge" alt="themaulikcodes" /></a> </p>
 
-- 👀 Checkout My Portfolio [Website](https://themaulik.github.io)
+- 👀 Checkout My Portfolio [Website](https://themaulik.github.io) or [Repo](https://github.com/themaulik/themaulik.github.io)
 
 - 🔭 I’m currently working on [Markify](https://github.com/themaulik/Markify)
 
